@@ -1,4 +1,5 @@
 {
+  "test": "test/test/zip",
   "a1cf": "genes/a1cf.zip",
   "a2ml": "genes/a2ml.zip",
   "aaas": "genes/aaas.zip",
